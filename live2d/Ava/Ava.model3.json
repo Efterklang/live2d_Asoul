@@ -9,7 +9,7 @@
   "FileReferences": {
     "Moc": "Ava.moc3",
     "Textures": [
-      "Ava.4096/texture_00.png"
+      "Ava.4096/texture_00.webp"
     ],
     "Physics": "Ava.physics3.json",
     "PhysicsV2": {

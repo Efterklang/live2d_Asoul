@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "Diana.moc3",
 		"Textures": [
-			"Diana.4096/texture_00.png"
+			"Diana.4096/texture_00.webp"
 		],
 		"Physics": "Diana.physics3.json",
 		"PhysicsV2": {
